@@ -1,6 +1,6 @@
 # ShopManagement
 
-![1](/home/ssohan/Documents/gits/ShopManagement/ShopManagement/1.png)
+![1](ShopManagement/1.png)
 
 
 
